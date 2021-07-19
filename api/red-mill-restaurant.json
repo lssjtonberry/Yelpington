@@ -1,0 +1,13 @@
+{
+  "id": "red-mill-restaurant",
+  "name": "Red-Mill-Restaurant",
+  "address": "4800 Basin Harbor Rd Basin Harbor",
+  "phone": "475-2311",
+  "hours": "11:00 am - 3:00 pm",
+  "notes": [
+    "This place was an awful lot of fun. ",
+    "Go for it! You will not be disappointed."
+  ],
+  "lat": 44.195038,
+  "lon": -73.359833
+}

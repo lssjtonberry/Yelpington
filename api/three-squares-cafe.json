@@ -1,0 +1,13 @@
+{
+  "id": "three-squares-cafe",
+  "name": "Three-Squares-Cafe",
+  "address": "141 Main St",
+  "phone": "877-9991",
+  "hours": "8:00 am - 8:00 pm",
+  "notes": [
+    "One of my favorite places to eat. ",
+    "Great place to bring friends."
+  ],
+  "lat": 44.168056,
+  "lon": -73.250931
+}

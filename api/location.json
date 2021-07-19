@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Antidote",
+        "lat": 44.167271,
+        "lon": -73.250954
+    },
+    {
+        "name": "Black Sheep Bistro",
+        "lat": 44.1670571,
+        "lon": -73.25329819509211
+    },
+    {
+        "name": "Hired Hand Brewing",
+        "lat": 44.1672923,
+        "lon": -73.25095301978548
+    },
+    {
+        "name": "Olsens Ice Cream",
+        "lat": 44.171506699999995,
+        "lon": -73.24776040782231
+    },
+    {
+        "name": "Red Mill Restaurant",
+        "lat": 44.195038,
+        "lon": -73.359833
+    },
+    {
+        "name": "Shuen Lee Chinese Restaurant",
+        "lat": 44.172710,
+        "lon": -73.240128
+    },
+    {
+        "name": "The Bridge Restaurant",
+        "lat": 44.036148,
+        "lon": -73.417633
+    },
+    {
+        "name": "Three Squares Cafe",
+        "lat": 44.168056,
+        "lon": -73.250931
+    }
+]

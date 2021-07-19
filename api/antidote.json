@@ -1,0 +1,13 @@
+{
+  "id": "antidote",
+  "name": "Antidote",
+  "address": "35 Green St",
+  "phone": "877-2525",
+  "hours": "4:00 pm - 7:30 pm",
+  "notes": [
+    "Delicious. Inventive. Reasonably Priced ",
+    "Great food and a solid atmosphere"
+  ],
+  "lat": 44.167271,
+  "lon": -73.250954
+}

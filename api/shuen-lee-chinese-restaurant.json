@@ -1,0 +1,13 @@
+{
+  "id": "shuen-lee-chinese-restaurant",
+  "name": "Shuen-Lee-Chinese-Restaurant",
+  "address": "113 Monkton Rd",
+  "phone": "877-1020",
+  "hours": "11:00 am - 10:00 pm",
+  "notes": [
+    "The ONLY good New York Chinese ",
+    "Surprisingly impressive"
+  ],
+  "lat": 44.172710,
+  "lon": -73.240128
+}

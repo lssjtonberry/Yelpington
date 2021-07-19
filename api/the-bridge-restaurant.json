@@ -1,0 +1,14 @@
+{
+    "id": "the-bridge-restaurant",
+    "name": "The-Bridge-Restaurant",
+    "address": "8013 VT RT 17 West",
+    "phone": "759-2071",
+    "hours": "12:00 pm - 8:00 pm",
+    "notes": [
+        "I love this place. Such friendly people and good food! ",
+        "Stopped in while traveling. Highly recommend the steak sandwich",
+        "Make sure you call ahead"
+    ],
+    "lat": 44.036148,
+    "lon": -73.417633
+}

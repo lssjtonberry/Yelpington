@@ -1,0 +1,13 @@
+{
+  "id": "black-sheep-bistro",
+  "name": "Black-Sheep-Bistro",
+  "address": "253 Main St",
+  "phone": "877-9991",
+  "hours": "5:00 am - 8:30 pm",
+  "notes": [
+    "OMG. ",
+    "Great Meal. Great Service"
+  ],
+  "lat": 44.1670571,
+  "lon": -73.25329819509211
+}

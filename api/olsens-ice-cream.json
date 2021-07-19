@@ -1,0 +1,13 @@
+{
+  "id": "olsens-ice-cream",
+  "name": "Olsens-Ice-Cream",
+  "address": "61 North Main st",
+  "phone": "877-9991",
+  "hours": "1:00 pm - 8:00 pm",
+  "notes": [
+    "Wonderful ice cream and great service. ",
+    "Ice cream and chocolates were awesome. My grandchildren and I all enjoyed the treats."
+  ],
+  "lat": 44.171506699999995,
+  "lon": -73.24776040782231
+}
