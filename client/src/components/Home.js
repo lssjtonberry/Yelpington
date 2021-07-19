@@ -23,11 +23,11 @@ function Home(props) {
     function capitalize(str) {
         // name strings are split, all the "-"'s sliced then joined again
         let strArray = str.split(" ");
-        let i = 0;
-        while (i < strArray.length) {
-            strArray[i] =
-                strArray[i][0].toUpperCase() + strArray[i].slice(1).toLowerCase();
-            i++;
+        let wordLength = 0;
+        while (wordLength < strArray.length) {
+            strArray[wordLength] =
+                strArray[wordLength][0].toUpperCase() + strArray[wordLength].slice(1).toLowerCase();
+            wordLength++;
         }
         return strArray.join(" ");
     }
