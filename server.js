@@ -11,13 +11,9 @@ const port = process.env.PORT || 5000
 
 app.use(express.static('./client/public'))
 
-app.get('/api.json', (req, res) => {
-  let api = allRestaurants();
-  //set data into a string to be sent to homepage
-  let data = JSON.stringify(api);
-  //send response as string to home page
-  res.type("text/json");
-  res.send(data);
+// set up server to listen to requests at the port specified
+app.listen(port, () => {
+  console.log('listening on port:', port)
 })
 
 //see all restaurant IDs as JSON
@@ -50,30 +46,7 @@ app.post('/note/:restaurant',
     addComment(restaurantId, newNote, res)
   })
 
-
-// set up server to listen to requests at the port specified
-app.listen(port, () => {
-  console.log('listening on port:', port)
-})
-
-
-//Supporting helper functions
-// all the available restaurant details are compiled into a single object
-function allRestaurants() {
-
-  return (
-    fs
-      //reads the contents of the directory
-      .readdirSync(path.resolve("./api"))
-      //filters the file from 
-      .filter((file) => file.endsWith(".json"))
-      // all the contents in the files are stored in single array
-      .map((file) => JSON.parse(fs.readFileSync((path.resolve("./api"), file)))
-      )
-  )
-}
-
-//Comment Section
+//Comment Section helper function
 
 function addComment(restaurantId, newNote, res) {
   console.log(restaurantId)
