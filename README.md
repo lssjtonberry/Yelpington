@@ -1,6 +1,6 @@
 # Yelpington: App
 
-In this project, you will create an online directory of restaurants in Burlington.
+In this project, you will create an online directory of restaurants in Burlington(or whatever city/county you want :D).
 
 # Screenshot
 
